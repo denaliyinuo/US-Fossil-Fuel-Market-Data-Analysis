@@ -1,6 +1,6 @@
-# US-Fossil-Fuel-Market-Data-Analysis
+# US Fossil Fuel Market Data Analysis
 
-#1 - Coal Prices Delivered to Power Sector Nationally 2005 through 2019
+# Coal Prices Delivered to Power Sector Nationally 2005 through 2019
 
 Results
 
